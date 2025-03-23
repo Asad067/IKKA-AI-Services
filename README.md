@@ -5,7 +5,9 @@ IKKA AI Services is a web application that combines three powerful AI-driven too
 🚀 Features
 
 1️⃣ IKKA AI Image Generator – Generates images using JavaScript API calls.
+
 2️⃣ AI Weather Checker – Provides real-time weather updates for any location worldwide.
+
 3️⃣ AI Chatbot (in progress) – A smart conversational assistant inspired by ChatGPT.
 
 🛠 Tech Stack
